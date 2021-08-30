@@ -1,7 +1,6 @@
 Files info:
 
-Dataset:
-1) Directory "Data" has all the datasets for the four stations with KNN imputed values.
+Course_report
 
 Notebooks:
 1) Centralized_model_LSTM - contains the implementation for centralized model using LSTM networks.
