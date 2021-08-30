@@ -1,6 +1,6 @@
 Files info:
 
-Course_report
+Details anout the project can gound in the product_report fie
 
 Notebooks:
 1) Centralized_model_LSTM - contains the implementation for centralized model using LSTM networks.
